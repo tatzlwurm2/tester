@@ -1,4 +1,4 @@
-﻿Name,ring,quadrant,isNew,description 
+﻿name,ring,quadrant,isNew,description 
 Aurora,adopt,techiques,no,cloud database
 cockroach,trial,platforms,yes,data domicile
 yugabyte,assess,tools,yes,data domicile
